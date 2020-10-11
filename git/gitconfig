@@ -1,0 +1,20 @@
+[color]
+	ui = auto
+[branch]
+	autosetupmerge = true
+[push]
+	default = nothing
+[clean]
+	requireforce = false
+[gui]
+	fontdiff = -family \"Liberation Mono\" -size 12 -weight normal -slant roman -underline 0 -overstrike 0
+[diff]
+	compactionHeuristic = true
+[gc]
+	auto = 0
+[rebase]
+	autoStash = true
+[commit]
+	verbose = true
+[init]
+	defaultBranch = main
