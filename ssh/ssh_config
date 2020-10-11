@@ -1,0 +1,26 @@
+# Global Settings
+ControlMaster auto
+ControlPath /run/user/1000/ssh-%h-%r-%p
+ControlPersist yes
+ServerAliveInterval 5
+ServerAliveCountMax 5
+SendEnv LANG LC_*
+VerifyHostKeyDNS yes
+CheckHostIP no
+# Project Servers
+Host bitbucket
+ HostName bitbucket.org
+ User hg
+ ControlPersist no
+ ControlPath none
+ ControlMaster no
+Host github
+ HostName github.com
+ User git
+ ControlPersist no
+ ControlPath none
+ ControlMaster no
+Host aur
+ Hostname aur.archlinux.org
+ IdentityFile ~/.ssh/id_rsa_aur
+ User aur
