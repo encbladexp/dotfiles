@@ -10,6 +10,7 @@
 	fontdiff = -family \"Liberation Mono\" -size 12 -weight normal -slant roman -underline 0 -overstrike 0
 [diff]
 	compactionHeuristic = true
+	colorMoved = default
 [gc]
 	auto = 0
 [rebase]
