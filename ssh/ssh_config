@@ -8,12 +8,6 @@ SendEnv LANG LC_*
 VerifyHostKeyDNS yes
 CheckHostIP no
 # Project Servers
-Host bitbucket
- HostName bitbucket.org
- User hg
- ControlPersist no
- ControlPath none
- ControlMaster no
 Host github
  HostName github.com
  User git
