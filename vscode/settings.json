@@ -3,7 +3,6 @@
     "editor.renderWhitespace": "all",
     "editor.fontSize": 14,
     "git.rebaseWhenSync": true,
-    "workbench.colorTheme": "Solarized Dark",
     "workbench.startupEditor": "none",
     "vsicons.dontShowNewVersionMessage": true,
     "editor.rulers": [
