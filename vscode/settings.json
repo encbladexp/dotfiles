@@ -12,4 +12,8 @@
         140
     ],
     "workbench.iconTheme": "vscode-icons",
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "python.analysis.typeCheckingMode": "basic"
 }
