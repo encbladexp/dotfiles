@@ -18,4 +18,7 @@
         "editor.formatOnType": true
     },
     "python.analysis.typeCheckingMode": "strict",
+    "redhat.telemetry.enabled": false,
+    "ansible.lightspeed.enabled": false,
+    "chat.disableAIFeatures": true
 }
