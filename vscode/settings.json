@@ -20,6 +20,7 @@
     "python.analysis.typeCheckingMode": "strict",
     "redhat.telemetry.enabled": false,
     "ansible.lightspeed.enabled": false,
+    "git.blame.editorDecoration.enabled": true,
     "files.enableTrash": false,
     "chat.disableAIFeatures": true
 }
