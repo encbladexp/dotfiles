@@ -23,5 +23,6 @@
     "extensions.ignoreRecommendations": true,
     "git.blame.editorDecoration.enabled": true,
     "files.enableTrash": false,
+    "diffEditor.renderSideBySide": false,
     "chat.disableAIFeatures": true
 }
