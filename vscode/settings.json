@@ -8,6 +8,7 @@
     "vsicons.dontShowNewVersionMessage": true,
     "editor.rulers": [
         80,
+        88,
         100,
         120,
         140
