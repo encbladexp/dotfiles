@@ -19,6 +19,7 @@
     },
     "python.analysis.typeCheckingMode": "strict",
     "redhat.telemetry.enabled": false,
+    "window.newWindowDimensions": "offset",
     "ansible.lightspeed.enabled": false,
     "extensions.ignoreRecommendations": true,
     "git.blame.editorDecoration.enabled": true,
