@@ -17,5 +17,5 @@
     "[python]": {
         "editor.formatOnType": true
     },
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "strict",
 }
