@@ -19,3 +19,7 @@
 	verbose = true
 [init]
 	defaultBranch = main
+[credential]
+	helper = store
+[fetch]
+	prune = true
